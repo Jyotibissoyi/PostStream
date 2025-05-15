@@ -1,0 +1,11 @@
+{
+  "name": "poststream",
+  "version": "1.0.0",
+  "description": "In this app we can post images and also update.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyotirmayi",
+  "license": "ISC"
+}
